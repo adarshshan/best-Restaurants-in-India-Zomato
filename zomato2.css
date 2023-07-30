@@ -1,0 +1,134 @@
+ .page-three{
+    width: 100%;
+    height: 150vh;
+    
+}
+.countries{
+    width: 1100px;
+    margin: 0px auto;
+    
+    height: 90%;
+    margin-top: -21px;
+
+}
+.column{
+    width: 33.33%;
+    height: 100px;
+    
+    padding-top: 20px;
+    float: left;
+}
+.innerdiv{
+    width: 94%;
+    height: 78px;
+    background: white;
+    margin: 0px auto;
+    display: flex;
+    text-align: left;
+    justify-content: space-between;
+    border-radius: 9px;
+    border: 1px solid rgb(223, 216, 216);
+}
+.im{
+    width: 43px;
+    height: 29px;
+    margin-top: 26px;
+    margin-left: 23px;
+    margin-right: 65px;
+    z-index: 1;
+}
+
+
+p{
+    margin-left: -160px;
+    font-family: 'Nunito', sans-serif;
+    color: rgb(101, 101, 101);
+    
+}
+.column a{
+    text-decoration: none;
+    color: black;
+    font-size: 24px;
+    
+}
+.page-four{
+    width: 100%;
+    height: 75vh;
+    background-color: rgb(235, 235, 233);
+}
+.log{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    padding: 31px;
+}
+.midle{
+    max-width: 1100px;
+    margin: 1px auto;
+    height: 255px;
+    display: flex;
+    border-bottom: 1px solid black;
+}
+.cll{
+    width: 20%;
+    height: 100%;
+    
+    padding: 20px;
+}
+
+.zimg{
+    width: 130px;
+    height: 28px;
+    margin-left: 48px;  
+}
+.box{
+    display: flex;
+    height: 40px;
+    width: 250px;
+    justify-content: space-between;
+    margin-right: 35px;
+}
+.box1{
+    height: 100%;
+    width: 44%;
+    border: 1px solid rgb(71, 70, 70);
+    display: flex;
+    justify-content: space-between;
+    border-radius: 7px;
+    
+}
+.cll h3{
+    font-family: 'Nunito', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: -12px;
+}
+.cll h6{
+    font-family: 'Nunito', sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    margin-bottom: -19px;
+    color: rgb(102, 100, 100);
+}
+#image{
+    width: 143px;
+    height: 39px;
+    margin-left: 2px;
+    margin-top: -13px;
+}
+#icon{
+    width: 28px;
+    height: 11px;
+    margin: -1px;
+    color: black;
+}
+.end{
+    width: 100%;
+    height: 60px;
+    position: absolute;
+    font-family: 'Open Sans', sans-serif;
+    text-align: left;
+    font-size: 20px;
+    padding: 0px 82px;
+}
